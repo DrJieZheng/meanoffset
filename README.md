@@ -1,6 +1,6 @@
 A fast photometric image alignment algorithm with row and column means 
 
-By Dr Jie Zheng, Dr Lin-Qiao Jiang, and Dr Jian-Feng Tian
+By Dr Jie Zheng, Dr Lin-Qiao Jiang, Mr Chao-Yue Li, and Dr Jian-Feng Tian
 
 ### Publication
 
